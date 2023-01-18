@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "date": "2023-01-17T18:30:00.000Z",
+      "productFreshness": "Brand New",
+      "price": 40,
+      "comment": "good apple",
+      "id": 1
+    },
+    {
+      "productName": "banana",
+      "category": "Fruits",
+      "date": "2023-01-16T18:30:00.000Z",
+      "productFreshness": "Brand New",
+      "price": 50,
+      "comment": "test",
+      "id": 2
+    },
+    {
+      "productName": "cucumber",
+      "category": "Vegetables",
+      "date": "2023-01-17T18:30:00.000Z",
+      "productFreshness": "Second Hand",
+      "price": 123,
+      "comment": "nice",
+      "id": 3
+    },
+    {
+      "productName": "apple",
+      "category": "Vegetables",
+      "date": "2023-01-18T18:30:00.000Z",
+      "productFreshness": "Refurbished",
+      "price": 986,
+      "comment": "fgfgfhfgh",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
