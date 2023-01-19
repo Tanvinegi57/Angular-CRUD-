@@ -6,5 +6,5 @@ This projects explains the basic CRUD operations on a table. You can add, edit a
 
 Json server is used to handle Database part.
 For json-server you can install the json-server package using command - "npm i json-server"
-and the use the following command - " npx json-server --watch db.json"
+and then use the following command - " npx json-server --watch db.json"
 to run the json-server in your system.
